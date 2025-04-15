@@ -1,0 +1,16 @@
+{
+  "name": "Flotiq NextJS starter",
+  "env":{
+    "FLOTIQ_API_KEY": {
+      "description": "Flotiq API key"
+    },
+    "FLOTIQ_CLIENT_AUTH_KEY": {
+      "description": "The key used to revalidate cache"
+    }
+  },
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    }
+  ]
+}
