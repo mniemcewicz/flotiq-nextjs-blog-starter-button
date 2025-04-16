@@ -110,7 +110,7 @@ Deploy this starter with one click on [Vercel](https://vercel.com/):
 
 You can also deploy this project to [Heroku](https://www.heroku.com/) in 3 minutes:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/mniemcewicz/flotiq-nextjs-blog-starter)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/mniemcewicz/flotiq-nextjs-blog-starter-button)
 
 Or to [Netlify](https://www.netlify.com/):
 
