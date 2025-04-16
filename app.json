@@ -1,5 +1,6 @@
 {
   "name": "Flotiq NextJS starter",
+  "repository": "https://github.com/mniemcewicz/flotiq-nextjs-blog-starter-button",
   "env":{
     "FLOTIQ_API_KEY": {
       "description": "Flotiq API key"
